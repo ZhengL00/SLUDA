@@ -1,6 +1,6 @@
 # SLUDA
 
-This repository contains the source code for our paper. 
+This repository contains the source code for our paper ACM MM 2024 "Self-Adaptive Fine-grained Multi-modal Data Augmentation for Semi-supervised Muti-modal Coreference Resolution". 
 
 ## Setup
 - **Build environment**
